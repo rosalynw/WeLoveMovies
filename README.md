@@ -10,5 +10,5 @@ To get this project up and running use:
 
 The app relies on default routes:
 
-`/movies` navigates to full list of movies
+`/movies` navigates to full list of movies <br>
 `/theaters` navigates to list of theaters showing and movies that are playing.
