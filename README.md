@@ -1,4 +1,4 @@
-##Project: We Love Movies
+#Project: We Love Movies
 
 A backend development project setting up a database and routes using knex, express, and postgreSQL.
 
